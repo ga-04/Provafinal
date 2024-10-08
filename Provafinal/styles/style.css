@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.navbar{
+    background-color:  #0d6efd!important;
+}
+
+
+footer{
+    background-color:  #0d6efd!important;
+}
+
+img{
+    width: 95%!important;
+    height: auto;
+    border-radius: 100%!important;
+}
+
+main{
+    width: 100%;
+}
