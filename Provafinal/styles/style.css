@@ -12,12 +12,25 @@ footer{
     background-color:  #0d6efd!important;
 }
 
-img{
+.img-1{
     width: 95%!important;
     height: auto;
     border-radius: 100%!important;
 }
 
+.div{
+    width: 95%!important;
+    height: auto;
+}
+
 main{
     width: 100%;
+}
+
+.img-2{
+    width: 95%!important;
+}
+
+header{
+    background-color: rgb(210, 158, 79);
 }
